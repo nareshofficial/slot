@@ -126,7 +126,7 @@ Execute the program using runserver command.
 </html>
 
 ## OUTPUT
-![Screenshot 2024-01-02 033207](https://github.com/nareshofficial/slot/assets/155141830/15a6784f-141c-4c2e-9755-cc76f9aed8f5)
+
 
 
 ## RESULT
